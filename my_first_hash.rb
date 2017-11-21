@@ -2,7 +2,6 @@ def my_hash
 
   my_hash = {"name" => "Crista", "age" => "45", "fave_color" => "teal"}
 
-
 end
 
 
